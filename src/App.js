@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+// import TestApi from './Components/TestApi';
+// import DemoUseImperativeHandle from './Components/DemoUseImperativeHandle';
+// import TestUseContext from './Components/TestUseContext';
+// import TestUseMemo from './Components/TestUseMemo';
+// import TestUseLayoutEffect from './Components/TestUseLayoutEffect';
+// import FakeChat from './Components/FakeChat';
+// import PreviewImages from './Components/PreviewImages';
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <PreviewImages/> */}
+      {/* <FakeChat/> */}
+      {/* <TestUseLayoutEffect/> */}
+      {/* <TestUseMemo/> */}
+      {/* <TestUseContext/> */}
+      {/* <DemoUseImperativeHandle/> */}
+      {/* <TestApi/> */}
+      test git
     </div>
   );
 }
